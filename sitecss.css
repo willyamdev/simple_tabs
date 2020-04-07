@@ -19,6 +19,7 @@
 }
 
 .tab{
+    white-space: nowrap;
     cursor: pointer;
     padding: 15px 25px;
 }
